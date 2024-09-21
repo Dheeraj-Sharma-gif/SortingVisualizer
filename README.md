@@ -10,7 +10,7 @@ I made this sorting visualizer web application to improve my skills more in HTML
 # What the Sorting algorithms inside this application
 This application supports the following sorting algorithms:
 
-**1.Bubble Sort.
+1.Bubble Sort.
 
 2. Insertion Sort.
   
@@ -20,4 +20,4 @@ This application supports the following sorting algorithms:
  
 5. Quick Sort.
 
-**
+
