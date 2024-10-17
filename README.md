@@ -1,7 +1,7 @@
 # SortingVisualizer
 This repository for the web application sorting visualizer which is built using HTML, CSS, JS
 
-**Live** :
+**Live** : https://dheeraj-sharma-gif.github.io/SortingVisualizer/
 
 **Code** : https://github.com/Dheeraj-Sharma-gif/SortingVisualizer
 
